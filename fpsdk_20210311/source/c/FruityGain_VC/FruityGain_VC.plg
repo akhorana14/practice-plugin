@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FruityGain_VC - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP22.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_WINDLL" /D "_AFXDLL" /D "_MBCS" /D "_USRDLL" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\FruityGain_VC\EditorDialog.cpp"
+"C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\FruityGain_VC\Gain.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP22.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP23.tmp" with contents
+[
+/nologo /subsystem:windows /dll /incremental:yes /pdb:"Debug/FruityGain_VC.pdb" /debug /machine:I386 /def:".\FruityGain_VC.def" /out:"c:\delphi5\programs\Fruityloops\Plugins\Fruity\Effects\FruityGain_VC\FruityGain_VC.dll" /implib:"Debug/FruityGain_VC.lib" /pdbtype:sept 
+.\Debug\EditorDialog.obj
+.\Debug\fp_cplug.obj
+.\Debug\fp_extra.obj
+.\Debug\fp_plugclass.obj
+.\Debug\FruityGain_VC.obj
+.\Debug\Gain.obj
+.\Debug\StdAfx.obj
+.\Debug\FruityGain_VC.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP23.tmp"
+<h3>Output Window</h3>
+Compiling...
+EditorDialog.cpp
+Generating Code...
+Compiling...
+Gain.cpp
+c:\delphi5\programs\synthplug\fpsdk\source\c\fruitygain_vc\gain.cpp(97) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\delphi5\programs\synthplug\fpsdk\source\c\fruitygain_vc\gain.cpp(98) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Generating Code...
+Linking...
+   Creating library Debug/FruityGain_VC.lib and object Debug/FruityGain_VC.exp
+
+
+
+<h3>Results</h3>
+FruityGain_VC.dll - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

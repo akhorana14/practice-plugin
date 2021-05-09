@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Osc3_VC - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP51.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_WINDLL" /D "_AFXDLL" /D "_MBCS" /D "_USRDLL" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\Osc3_VC\testplug.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP51.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP52.tmp" with contents
+[
+/nologo /subsystem:windows /dll /incremental:no /pdb:"Release/osc3_vc.pdb" /machine:I386 /def:".\Osc3_VC.def" /out:"c:\delphi5\programs\fruityloops\plugins\fruity\generators\osc3_vc\osc3_vc.dll" /implib:"Release/osc3_vc.lib" 
+.\Release\EditorDialog.obj
+.\Release\fp_cplug.obj
+.\Release\fp_extra.obj
+.\Release\fp_plugclass.obj
+.\Release\Osc3_VC.obj
+.\Release\StdAfx.obj
+.\Release\testplug.obj
+.\Release\Osc3_VC.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP52.tmp"
+<h3>Output Window</h3>
+Compiling...
+testplug.cpp
+C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\Osc3_VC\testplug.cpp(110) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\Osc3_VC\testplug.cpp(164) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\Osc3_VC\testplug.cpp(166) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\Osc3_VC\testplug.cpp(308) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\Osc3_VC\testplug.cpp(310) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\Osc3_VC\testplug.cpp(330) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Delphi5\Programs\SynthPlug\fpsdk\source\c\Osc3_VC\testplug.cpp(332) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Linking...
+   Creating library Release/osc3_vc.lib and object Release/osc3_vc.exp
+
+
+
+<h3>Results</h3>
+osc3_vc.dll - 0 error(s), 7 warning(s)
+</pre>
+</body>
+</html>
