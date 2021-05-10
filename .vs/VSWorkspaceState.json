@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Builds",
+    "\\Builds\\VisualStudio2019"
   ],
+  "SelectedNode": "\\Builds\\VisualStudio2019\\NewProject.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,117 @@
+﻿  Main.cpp
+  MainComponent.cpp
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(10,31): error C2653: 'juce': is not a class or namespace name (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(11,1): error C2504: 'AudioAppComponent': base class undefined (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(10,31): error C2653: 'juce': is not a class or namespace name (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(19,35): error C2653: 'juce': is not a class or namespace name (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(11,1): error C2504: 'AudioAppComponent': base class undefined (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(19,63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(19,35): error C2653: 'juce': is not a class or namespace name (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(19,63): error C2143: syntax error: missing ',' before '&' (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(19,63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(23,17): error C2653: 'juce': is not a class or namespace name (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(19,63): error C2143: syntax error: missing ',' before '&' (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(23,23): error C2061: syntax error: identifier 'Graphics' (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(23,17): error C2653: 'juce': is not a class or namespace name (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(23,23): error C2061: syntax error: identifier 'Graphics' (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(32,1): error C2143: syntax error: missing ';' before '}' (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(32,1): error C2143: syntax error: missing ';' before '}' (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(32,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(32,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(32,1): warning C4183: 'JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR': missing return type; assumed to be a member function returning 'int' (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(32,1): warning C4183: 'JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR': missing return type; assumed to be a member function returning 'int' (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(15,6): error C3668: 'MainComponent::~MainComponent': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(15,6): error C3668: 'MainComponent::~MainComponent': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(18,10): error C3668: 'MainComponent::prepareToPlay': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(18,10): error C3668: 'MainComponent::prepareToPlay': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(19,10): error C3668: 'MainComponent::getNextAudioBlock': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(19,10): error C3668: 'MainComponent::getNextAudioBlock': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(20,10): error C3668: 'MainComponent::releaseResources': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(20,10): error C3668: 'MainComponent::releaseResources': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(23,10): error C3668: 'MainComponent::paint': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(23,10): error C3668: 'MainComponent::paint': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(24,10): error C3668: 'MainComponent::resized': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\MainComponent.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.h(24,10): error C3668: 'MainComponent::resized': method with override specifier 'override' did not override any base class methods (compiling source file ..\..\Source\Main.cpp)
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(13,39): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(8,5): error C3861: 'setSize': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(14,1): error C2504: 'JUCEApplication': base class undefined
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(11,9): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(11,47): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(19,11): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(11,73): error C2065: 'recordAudio': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(19,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(11,35): error C3861: 'isRequired': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(19,24): error C3646: 'getApplicationName': unknown override specifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(12,14): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(19,43): error C2059: syntax error: ')'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(12,51): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(19,60): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(12,77): error C2065: 'recordAudio': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(20,11): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(12,40): error C3861: 'isGranted': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(20,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(14,9): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(14,44): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(20,24): error C3646: 'getApplicationVersion': unknown override specifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(14,70): error C2065: 'recordAudio': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(20,46): error C2059: syntax error: ')'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(20,60): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(24,28): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(15,65): error C3861: 'setAudioChannels': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(24,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(14,35): error C3861: 'request': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(24,40): error C2143: syntax error: missing ',' before '&'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(20,9): error C3861: 'setAudioChannels': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(46,40): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(46,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(27,5): error C3861: 'shutdownAudio': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(46,52): error C2143: syntax error: missing ',' before '&'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(42,46): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(58,34): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(42,74): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(59,5): error C2504: 'DocumentWindow': base class undefined
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(42,74): error C2143: syntax error: missing ',' before '&'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(50,5): error C2065: 'bufferToFill': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(61,21): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(62,28): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(62,34): error C2065: 'Graphics': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(61,27): error C2061: syntax error: identifier 'String'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(62,44): error C2065: 'g': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(97,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(62,45): error C2761: 'void MainComponent::paint(void)': redeclaration of member is not allowed
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\MainComponent.cpp(63,1): error C2448: 'MainComponent::paint': function-style initializer appears to be a function definition
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(97,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(97,5): warning C4183: 'JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR': missing return type; assumed to be a member function returning 'int'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(80,14): error C3668: 'NewProjectApplication::MainWindow::closeButtonPressed': method with override specifier 'override' did not override any base class methods
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(100,10): error C2039: 'unique_ptr': is not a member of 'std'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Builds\VisualStudio2019\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(100,20): error C2143: syntax error: missing ';' before '<'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(100,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(100,43): error C2238: unexpected token(s) preceding ';'
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(21,10): error C3668: 'NewProjectApplication::moreThanOneInstanceAllowed': method with override specifier 'override' did not override any base class methods
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(24,10): error C3668: 'NewProjectApplication::initialise': method with override specifier 'override' did not override any base class methods
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(31,10): error C3668: 'NewProjectApplication::shutdown': method with override specifier 'override' did not override any base class methods
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(39,10): error C3668: 'NewProjectApplication::systemRequestedQuit': method with override specifier 'override' did not override any base class methods
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(46,10): error C3668: 'NewProjectApplication::anotherInstanceStarted': method with override specifier 'override' did not override any base class methods
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(28,9): error C2065: 'mainWindow': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(28,43): error C3861: 'getApplicationName': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(35,9): error C2065: 'mainWindow': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(43,9): error C3861: 'quit': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(62,31): error C2065: 'name': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(63,31): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(63,46): error C3861: 'getInstance': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(64,72): error C2653: 'juce': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(64,95): error C2065: 'backgroundColourId': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(65,31): error C2653: 'DocumentWindow': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(65,47): error C2065: 'allButtons': undeclared identifier
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(62,15): error C2614: 'NewProjectApplication::MainWindow': illegal member initialization: 'DocumentWindow' is not a base or member
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(67,13): error C3861: 'setUsingNativeTitleBar': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(68,13): error C3861: 'setContentOwned': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(73,13): error C3861: 'setResizable': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(74,29): error C3861: 'getWidth': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(74,41): error C3861: 'getHeight': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(74,13): error C3861: 'centreWithSize': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(77,13): error C3861: 'setVisible': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(85,13): error C2653: 'JUCEApplication': is not a class or namespace name
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(85,30): error C3861: 'getInstance': identifier not found
+C:\Users\ARJUN\Desktop\practice-plugin\NewProject\Source\Main.cpp(106,1): fatal error C1004: unexpected end-of-file found
